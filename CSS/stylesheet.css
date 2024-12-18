@@ -80,13 +80,14 @@ h2 {
 /* STYLING THE CATEGORY SECTION  */
 .category {
   display: flex;
-  gap: 2rem;
+  gap: 5rem;
   margin-bottom: 5rem;
   /* position: relative; */
 }
 .image-computer-container {
-  left: -5rem;
-  height: 500px;
+  left: -1.8rem;
+  height: 600px;
+  width: 750px;
   position: relative;
 }
 .image-computer-container img {
