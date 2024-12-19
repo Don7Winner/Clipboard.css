@@ -170,6 +170,9 @@
   .btn-left {
     margin-right: 0;
   }
+  .item-list ul {
+    grid-template-columns: 1fr;
+  }
 }
 @media (max-width: 479px) {
   h1 {
@@ -227,9 +230,7 @@
   .category-list {
     width: 350px;
   }
-  .item-list ul {
-    grid-template-columns: 1fr;
-  }
+
   .companies-logo {
     grid-template-columns: 1fr;
   }
